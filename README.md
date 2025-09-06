@@ -1,11 +1,11 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi Aliens👋, I'm Samuel Fomba a.k.a <a href="https://www.youtube.sfomba001@gmail.com/">SamKing</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Fomba</a> is a passionate Full Stack Web Developer from Cyprus, working on Web Development for 2 years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/sfomba001@gmail.com/" target="_blank" rel="noreferrer">Fomba</a> is a passionate Full Stack Web Developer from Cyprus, working on Web Development for 2 years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
 <p align="left">
-  <a href="https://topmate.io/nasiullha_chaudhari" target="_blank" rel="noreferrer"> Book a Call with me! </a>
+  <a href="https://"sfomba001@gmail.com" target="_blank" rel="noreferrer"> Book a Call with me! </a>
 </p>
 
 <!-- GIF -->
